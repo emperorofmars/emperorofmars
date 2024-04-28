@@ -9,7 +9,7 @@ The single relevant format for VR & V-Tubing avatars is a `.unitypackage` that c
 There is no interoperability for avatars. And it is severely lacking for 3d models by themselves.\
 Using those avatars as an end-user is prohibitively difficult as it requires the use of a Game-Engine like Unity.
 
-I'm trying to improve that, by creating a prototype/proof of concept of an extensible file format for 3d models.\
+I'm trying to improve that, by creating a truly extensible file-format for 3d models, with the capability to be easily extended with VR avatar components, that is agnostic of any game-engine or application.\
 You can view my progress in the [STF - Scene Transfer Format Repository](https://github.com/emperorofmars/stf-unity)
 
 ---
