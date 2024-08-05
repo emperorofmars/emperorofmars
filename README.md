@@ -1,7 +1,7 @@
 # Hello There, I'm Mars
 
 I make 3d Avatars for VR applications like VRChat and VSeeFace as a hobby.\
-You can view them on [Gumroad](https://emperorofmars.gumroad.com/) and [Itch](https://emperorofmars.itch.io/).
+Find all my links at [squirrelbite.com](https://squirrelbite.com).
 
 
 # STF | Extensible 3d Asset Interchange Format
@@ -15,7 +15,3 @@ With the STF project, I'm trying to create an easily extensible interchange form
 STF should be able to easily host an extension for application agnostic & fully featured VR & V-Tubing avatars.
 
 You can view my progress in the [STF - Scene Transfer Format Repository](https://github.com/emperorofmars/stf-unity)
-
----
-
-Find all my links at [squirrelbite.com](https://squirrelbite.com).
