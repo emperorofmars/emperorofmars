@@ -1,4 +1,4 @@
-= Trying to make 3d models more interoperable
+= Trying to Make 3D Models More Interoperable
 :hardbreaks-option:
 
 I'm frustrated with the lack of interoperability for 3D assets, especially in open source.
