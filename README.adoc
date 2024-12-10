@@ -11,8 +11,8 @@ By serializing data into a 3d models node hierarchy, i effectively made FBX exte
 == Proof-of-Concept 3D Asset Format
 It consists of a container format with no specific features of its own. All functionality is implemented as hot-loadable plugins, including core resource types like meshes.
 A lot of effort was put into making plugins as self contained as possible and as easy to develop, even rapidly prototypable.
-**Repository:** https://github.com/emperorofmars/stf-unity
-**Explanation:** https://github.com/emperorofmars/stf-unity/blob/master/STF/Docs/stf_format.md 
+**Repository:** https://github.com/emperorofmars/stf-unity-poc
+**Explanation:** https://github.com/emperorofmars/stf-unity-poc/blob/master/STF/Docs/stf_format.md 
 
 ---
 
