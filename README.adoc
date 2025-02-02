@@ -1,21 +1,18 @@
-= Trying to make 3d models more interoperable
+= Working on STF
 :hardbreaks-option:
 
+STF is a work-in-progress **modular 3D interchange format** for games-development use-cases.
+
+**https://github.com/emperorofmars/stf_documentation**
+
 I'm frustrated with the lack of interoperability for 3D assets, especially in open source.
-FBX is the current best 3D interchange format. Sadly, it is non-extensible and undocumented, hardly optimal.
-
-== Extension System for FBX
-By serializing data into a 3d models node hierarchy, i effectively made FBX extensible. Its implemented for Blender and Unity. This I can bring into a useful state, but its at best a very heretical band-aid.
-**Repository:** https://github.com/emperorofmars/nna
-
-== Proof-of-Concept 3D Asset Format
-It consists of a container format with no specific features of its own. All functionality is implemented as hot-loadable plugins, including core resource types like meshes. A lot of effort was put into making plugins as self contained as possible and as easy to develop, even rapidly prototypable.
-**Repository:** https://github.com/emperorofmars/stf-unity
-**Explanation:** https://github.com/emperorofmars/stf-unity/blob/master/STF/Docs/stf_format.md 
+STF is my attempt to develop an open and extensible alternative to FBX.
+This doesn't replace glTF or USD, these formats exist for different use-cases.
 
 ---
 
-Aside from that, I make 3d Avatars for VR applications like VRChat and VSeeFace as a hobby.
-Find all my links at https://squirrelbite.com[Squirrelbite.com]!
+Aside from that, I make 3d Avatars for VR applications like VRChat and VSeeFace.
+
+Find all my links at **https://squirrelbite.com[Squirrelbite.com]**!
 
 Cheers!
