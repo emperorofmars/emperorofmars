@@ -1,7 +1,7 @@
-= Working on STF
+= Trying to Make 3D Models More Interoperable
 :hardbreaks-option:
 
-STF is a work-in-progress **modular 3D interchange format** for games-development use-cases.
+**STF** is a work-in-progress **modular 3D interchange format** for games-development use-cases.
 
 **https://github.com/emperorofmars/stf_documentation**
 
