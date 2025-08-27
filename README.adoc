@@ -1,13 +1,14 @@
 = Trying to Make 3D Models More Interoperable
 :hardbreaks-option:
 
-**STF** is a work-in-progress **modular 3D interchange format** for games-development use-cases.
+**STF** is a work-in-progress **modular 3D interchange format** for (not only) games-development use-cases.
 
-**https://github.com/emperorofmars/stf_documentation**
+See **https://stfform.at[stfform.at]** or the pinned repositories below.
 
 I'm frustrated with the lack of interoperability for 3D assets, especially in open source.
-STF is my attempt to develop an open and extensible alternative to FBX.
-This doesn't replace glTF or USD, these formats exist for different use-cases.
+This is my attempt to develop an open and extensible alternative to FBX.
+
+STF doesn't replace glTF or USD. These formats exist for different use-cases and do not compete with STF.
 
 ---
 
