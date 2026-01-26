@@ -3,8 +3,9 @@ Hi, I'm Mars, a drunkard software engineer with a 3d modelling problem.
 🌰 [Website](https://squirrelbite.com) 🌰 [Bluesky](https://bsky.app/profile/mars.squirrel.pub) 🌰 <a href="https://squirrel.pub/@mars" rel="me">Mastodon</a> 🌰
 
 # Projects
-## STF - Squirrel Transfer Format
-A modular 3d file-format for games-development. Trying to make 3d models more interoperable.
+## STF - 3D File-Format for Gamedev
+Easy to extend, intended for moving 3d assets between DCCs and game-engines.\
+It preserves original data, i.e. n-gon topology, while also providing triangulation.
 
 🌰 **[Learn more in the docs!](https://docs.stfform.at)** 🌰
 
