@@ -5,7 +5,7 @@ Drunkard software engineer with a 3d modelling problem.
 # Projects
 ## STF - 3D File-Format for Gamedev
 Modular & easy to extend. Intended for moving 3d assets between DCCs and game-engines.\
-It preserves original data, i.e. n-gon topology, while also providing a game-ready representation, i.e. the triangulation.
+STF stores original information as well as baked results. *I.e. the original mesh topology including n-gons, while also knowing the triangulation.*
 
 🌰 **[Learn more in the docs!](https://docs.stfform.at)** 🌰
 
