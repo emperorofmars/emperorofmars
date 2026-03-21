@@ -10,9 +10,9 @@ STF stores original information as well as baked results. *I.e. the original mes
 🌰 **[Learn more in the docs!](https://docs.stfform.at)** 🌰
 
 Implemented across:
-* **[Blender](https://codeberg.org/emperorofmars/stf_blender)**
-* **[Unity](https://codeberg.org/emperorofmars/stf_unity)**
-* **[Godot](https://codeberg.org/emperorofmars/stf_godot)**
+* **[Blender](https://codeberg.org/stf_format/stf_blender)**
+* **[Unity](https://codeberg.org/stf_format/stf_unity)**
+* **[Godot](https://codeberg.org/stf_format/stf_godot)**
 * *more coming at some point*
 
 ## Blender SlotLink
