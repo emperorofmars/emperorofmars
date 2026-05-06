@@ -1,27 +1,35 @@
 Drunkard software engineer with a 3d modelling problem.
 
-🌰 [Website](https://squirrelbite.com) 🌰 [Bluesky](https://bsky.app/profile/mars.squirrel.pub) 🌰 <a href="https://squirrel.pub/@mars" rel="me">Mastodon</a> 🌰
+> [!CAUTION]
+> Moved to Codeberg: **<https://codeberg.org/emperorofmars>**
 
-# Projects
-## STF - 3D File-Format for Gamedev
-Modular & easy to extend. Intended for moving 3d assets between DCCs and game-engines.\
-STF stores original information as well as baked results. *I.e. the original mesh topology including n-gons, while also knowing the triangulation.*
+🌰 [Website](https://squirrelbite.com) 🌰 [Bluesky](https://bsky.app/profile/mars.squirrel.pub) 🌰 <a href="https://squirrel.pub/@mars" rel="me">Mastodon</a>
 
-🌰 **[Learn more in the docs!](https://docs.stfform.at)** 🌰
+## Projects
 
-Implemented across:
-* **[Blender](https://codeberg.org/stf_format/stf_blender)**
-* **[Unity](https://codeberg.org/stf_format/stf_unity)**
-* **[Godot](https://codeberg.org/stf_format/stf_godot)**
-* *more coming at some point*
+* **STF - 3D File-Format for Gamedev**\
+	→ [**`STF Codeberg Organization`**](https://codeberg.org/stf_format)\
+	STF is made to be imported into game-engine projects, while also being usable for further editing in 3d modeling tools.\
+	🌰 **Watch the 7 min [introduction video](https://www.youtube.com/watch?v=DDQjbSaDbkM)!** 🌰
 
-## Blender SlotLink
-Slot Link helps you manage Blender projects with multiple separate animations.\
-*E.g. creating a walk- and runcycle animation for the same character in the same .blend file.*
+* **Blender SlotLink**\
+	→ [**`Repository`**](https://codeberg.org/emperorofmars/blender_slot_link) • [**`Installation`**](https://extensions.blender.org/add-ons/slot-link/)\
+	Slot Link helps you manage Blender projects with multiple separate animations.\
+	*E.g. creating a walk- and runcycle animation for the same character in the same .blend file.*\
 
-🌰 **[Repository](https://codeberg.org/emperorofmars/blender_slot_link)** 🌰 **[Installation](https://extensions.blender.org/add-ons/slot-link/)** 🌰
+* **Avatar Base Setup**\
+	→ [**`Repository`**](https://codeberg.org/emperorofmars/ava_base_setup) • [**`Installation`**](https://vpm.squirrelbite.com/)\
+	A small non-destructive utility for setting up Unity/VRChat avatars.\
+	It sets up [VRCFT Templates](https://github.com/Adjerry91/VRCFaceTracking-Templates) and your own controllers in an intelligent-ish manner.
 
-## Avatar Base Setup
-A small non-destructive utility for Unity/VRChat avatars. It sets up [VRCFT Templates](https://github.com/Adjerry91/VRCFaceTracking-Templates) and your own controllers in an intelligent-ish manner.
+* **bpydev**\
+	→ [**`Repository`**](https://codeberg.org/emperorofmars/template_blender_extension_repository)\
+	IDE/editor independent tooling for developing and debugging Blender extensions.
 
-🌰 **[Repository](https://codeberg.org/emperorofmars/ava_base_setup)** 🌰
+* **Template Blender extension repository**\
+	→ [**`Repository`**](https://codeberg.org/emperorofmars/template_blender_extension_repository)\
+	Template repository with a Forgejo action to build a Blender extension listing and website.
+
+* **Template VRChat package listing**\
+	→ [**`Repository`**](https://codeberg.org/emperorofmars/template_forgejo_vpm_listing)\
+	Template repository with a Forgejo action to build a VRChat package listing and website.
